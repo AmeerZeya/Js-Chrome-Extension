@@ -10,3 +10,5 @@ A chrome extension for SoundCloud that supports change/repeat/like/play/pause so
 
 # Usage
 Click on soundCloud extension and use it to change/repeat/like/play/pause songs.
+
+![image](https://user-images.githubusercontent.com/82048817/167467363-c7ef21f1-f850-44ac-b489-df85b1369b0d.png)
