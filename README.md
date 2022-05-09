@@ -2,7 +2,7 @@
 
 ## A chrome extension for SoundCloud that supports change/repeat/like/play/pause songs so that users do not have to navigate between tabs.
 
-Local Installation
+# Local Installation
   1. Download the zip or clone the repository to a folder.
   2. Go to Google Chrome extensions
   3. Enable developer mode and load unpacked extension from the folder
