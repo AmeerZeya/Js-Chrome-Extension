@@ -1,6 +1,6 @@
 # Chrome extension for SoundCloud Audio Controls
 
-## A chrome extension for SoundCloud that supports change/repeat/like/play/pause songs so that users do not have to navigate between tabs.
+A chrome extension for SoundCloud that supports change/repeat/like/play/pause songs so that users do not have to navigate between tabs.
 
 # Local Installation
   1. Download the zip or clone the repository to a folder.
