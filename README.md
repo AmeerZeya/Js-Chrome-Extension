@@ -1,16 +1,12 @@
-# title(){return this.options.title||this.options.name}
+# Chrome extension for SoundCloud Audio Controls
 
-## Supporting Scrimba
+## A chrome extension for SoundCloud that supports change/repeat/like/play/pause songs so that users do not have to navigate between tabs.
 
-Since 2017, we have created over 20 free courses on Scrimba, and we're going to
-continue launching free courses. But to pay our bills, we have to charge once
-in a while. So if you've ever wanted to "give back" to Scrimba, you can do that by buying
-	one of our paid courses
+Local Installation
+-Download the zip or clone the repository to a folder.
+-Go to Google Chrome extensions
+-Enable developer mode and load unpacked extension from the folder
+-Open SoundCloud in a new tab.
 
-- [Become a professional React developer](https://scrimba.com/course/greact)
-- [The Responsive Web Design Bootcamp](https://scrimba.com/course/gresponsive)
-- [The Ultimate JavaScript Bootcamp](https://scrimba.com/course/gjavascript)
-
-	It would also mean the world to us if you share the courses.  
-
-Happy Coding!
+# Usage
+Click on soundCloud extension and use it to change/repeat/like/play/pause songs.
