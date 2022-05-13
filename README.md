@@ -1,6 +1,6 @@
 # Chrome extension for SoundCloud Audio Controls
 
-An bookmark extension for Chrome browser that supports saving current tab link in local storage .
+A bookmark extension for Chrome browser that supports saving current tab link in local storage .
 
 # Local Installation
   1. Download the zip or clone the repository to a folder.
