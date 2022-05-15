@@ -1,4 +1,4 @@
-# Chrome extension for SoundCloud Audio Controls
+# Chrome extension for Bookmarks
 
 A bookmark extension for Chrome browser that supports saving current tab link in local storage .
 
