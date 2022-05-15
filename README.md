@@ -9,7 +9,6 @@ A bookmark extension for Chrome browser that supports saving current tab link in
   4. click the extension and click on save button to save the link
 
 # Usage
-Click on tracker extension and use it to save / delete current tab links,
-or manually enter link.
+Click on tracker extension and use it to save / delete current tab link or manually entered link.
 
 ![image](https://user-images.githubusercontent.com/82048817/168411942-fb1956f4-5918-477c-8607-dd2b34ee4037.png)
