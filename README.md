@@ -1,6 +1,6 @@
 # Chrome extension for Bookmarks
 
-A bookmark extension for Chrome browser that supports saving current tab link in local storage .
+A bookmark extension for Chrome browser that supports saving current tab link in browser's local storage .
 
 # Local Installation
   1. Download the zip or clone the repository to a folder.
